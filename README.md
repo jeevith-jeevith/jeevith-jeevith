@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79f576c0-07d3-463c-8d83-4a37abf7c9be" /><div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jeevith&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Final-Year%20EEE%20Student&descAlignY=62&descSize=16" width="100%"/>
 
@@ -74,11 +74,7 @@ class Jeevith {
 
 
 
-<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jeevith-jeevith&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-
-</div>
 
 <div align="center">
 
