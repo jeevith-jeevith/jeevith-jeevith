@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79f576c0-07d3-463c-8d83-4a37abf7c9be" /><div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jeevith&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Final-Year%20EEE%20Student&descAlignY=62&descSize=16" width="100%"/>
 
@@ -12,9 +12,13 @@
 
 </div>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 
 ## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```cpp
 class Jeevith {
@@ -44,6 +48,14 @@ class Jeevith {
 };
 ```
 
+</td>
+<td width="40%" valign="top" align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+</td>
+</tr>
+</table>
 <br clear="right"/>
 
 ## 🛠️ Tech Stack
